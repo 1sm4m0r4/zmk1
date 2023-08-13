@@ -1,5 +1,5 @@
-if SHIELD_REVIUNG41
+if SHIELD_REVIUNG
 config ZMK_KEYBOARD_NAME
-    default "reviung41"
+    default "reviung"
 
 endif
