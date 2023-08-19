@@ -1,5 +1,0 @@
-if SHIELD_REVIUNG
-config ZMK_KEYBOARD_NAME
-    default "reviung"
-
-endif
